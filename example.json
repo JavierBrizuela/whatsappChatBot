@@ -1,0 +1,35 @@
+{
+  "object": "whatsapp_business_account",
+  "entry": [
+    {
+      "id": "298623170011548",
+      "changes": [
+        {
+          "value": {
+            "messaging_product": "whatsapp",
+            "metadata": {
+              "display_phone_number": "15556279805",
+              "phone_number_id": "342689452264552"
+            },
+            "contacts": [
+              {
+                "profile": { "name": "Arte Digital" },
+                "wa_id": "5492615575553"
+              }
+            ],
+            "messages": [
+              {
+                "from": "5492615575553",
+                "id": "wamid.HBgNNTQ5MjYxNTU3NTU1MxUCABIYIDYxMEQ4MzZFQjBCNTU1MUIzNjQzRDQwMUM3NzkzQkJDAA==",
+                "timestamp": "1719002702",
+                "text": { "body": "Holis" },
+                "type": "text"
+              }
+            ]
+          },
+          "field": "messages"
+        }
+      ]
+    }
+  ]
+}
